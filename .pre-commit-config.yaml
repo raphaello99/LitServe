@@ -58,7 +58,7 @@ repos:
           - pep8-naming
           - pydocstyle
 
-  - repo: https://github.com/astral-sh/ruff-pre-commit
+  - repo: https://github.com/astral-sh/ruff-pre-committ
     rev: v0.5.6
     hooks:
       - id: ruff-format
